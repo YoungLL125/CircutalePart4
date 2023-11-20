@@ -45,7 +45,6 @@ public class Joystick : MonoBehaviour
         }
 
     }
-
     public void PointerUp()
     {
         joystickVec = Vector2.zero;
